@@ -1,1 +1,1 @@
-## 🎯 Objetivo
+Desenvolver uma solução inovadora para reduzir a taxa de absenteísmo hospitalar de 20% para menos de 10% através do **GUIDABOT** - uma assistente digital humanizada que atua como elo entre paciente, acompanhante e equipe médica.
