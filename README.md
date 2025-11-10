@@ -1,1 +1,1 @@
-#  Hospital Clínico - Sistema de Gestão Hospitalar
+## 📋 Sobre o Projeto
