@@ -1,1 +1,1 @@
-## 📋 Sobre o Projeto
+O Hospital Clínico é uma aplicação web moderna desenvolvida em **React + Vite + TypeScript**, focada em proporcionar uma experiência de usuário excepcional para pacientes e profissionais da saúde. O projeto foi desenvolvido como parte da **Sprint 03**, implementando rotas dinâmicas, consumo de API REST, tipos TypeScript avançados e responsividade completa.
